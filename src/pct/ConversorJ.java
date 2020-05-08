@@ -18,7 +18,7 @@ public class ConversorJ {
         
         Scanner entrada = new Scanner(System.in);
         
-        System.out.println("\n\t\t\t --Conversor--\n");
+        System.out.println("\n\t\t\t --Calculadora--\n");
         
         System.out.print("\t Informe capital:");
         c = entrada.nextDouble();
